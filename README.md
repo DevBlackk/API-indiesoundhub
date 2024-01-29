@@ -94,4 +94,4 @@ A API IndieSoundHub é uma ferramenta poderosa para explorar e compreender a riq
 
 Agradecemos por fazer parte desta jornada emocionante no mundo da música independente!
 
-Para mais detalhes, visite [IndieSoundHub](https://www.indiesoundhub.com).
+Para mais detalhes, entre em [contato](davidsonwferreira8@gmail.com).
