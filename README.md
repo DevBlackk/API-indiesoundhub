@@ -95,3 +95,7 @@ A API IndieSoundHub é uma ferramenta poderosa para explorar e compreender a riq
 Agradecemos por fazer parte desta jornada emocionante no mundo da música independente!
 
 Para mais detalhes, entre em [contato](davidsonwferreira8@gmail.com).
+
+### Informação importante
+
+Este projeto foi feito com um conteiner docker. Para que você veja os mesmos resultados que os meus, você deverar baixar a [imagem](https://hub.docker.com/repository/docker/devblackk/db-indiesoundhub/general) do meu conteiner docker.
