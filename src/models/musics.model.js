@@ -1,4 +1,4 @@
-const connection = require('./connection');
+const connection = require('../connection');
 
 const getMusics = async () => {
   const [musics] = await connection.execute('SELECT * FROM music');

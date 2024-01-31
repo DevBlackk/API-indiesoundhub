@@ -1,4 +1,4 @@
-const connection = require('./connection');
+const connection = require('../connection');
 
 const getUser = async () => {
   const [users] = await connection.execute('SELECT * FROM user');
